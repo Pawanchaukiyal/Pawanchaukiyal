@@ -1,12 +1,13 @@
-<h1 align="center">Hey, I'm Pawan Chaukiyal 👋</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="Banner.gif" width="100%" alt="Developer Banner" />
+</p>
 
-
-
-
+<h1 align="center">Hey, I'm <strong>Pawan Chaukiyal</strong> 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer | React • Node • MongoDB • Next.js</b><br/>
-  I build scalable, user-focused web and mobile apps — and I love turning ideas into working software.
+  🚀 Full Stack Developer | React · Node.js · MongoDB · Next.js  
+  I craft modern, scalable, and maintainable web & mobile applications.
 </p>
 
 <p align="center">
@@ -16,99 +17,112 @@
   <a href="https://github.com/Pawanchaukiyal" target="_blank">GitHub</a>
 </p>
 
----
+<hr/>
 
-<div align="center" style="margin-bottom: 30px; margin-top: 30px;">
-  <img src="Banner.gif" width="100%" alt="Animated Developer Banner" />
-</div>
+## 👨‍💻 Who I Am
 
-----
-
-
-## 👨‍💻 About Me
-
-- 🔧 1 year of hands-on development experience  
-- 🛠️ Specialized in full stack projects using React.js, Next.js, Node.js, Express, MongoDB  
-- 📱 Built and deployed cross-platform mobile apps using React Native  
-- 🎓 Mentor in DSA, project building, and clean code practices  
-- 🚀 Exploring DevOps (Docker, CI/CD) and UI/UX workflows  
-- 🎯 Seeking a full-time role in a **product-based / MNC company (8 LPA target)**  
-- 📍 Based in Delhi NCR, open to hybrid or remote roles
+- 🔧 1 year+ of production-level full stack experience  
+- 🔭 Worked on real-world apps from frontend to deployment  
+- 🚀 Passionate about clean code, UX, and scalable architecture  
+- 📲 Built cross-platform apps using **React Native**  
+- 🧑‍🏫 Mentored students in full stack dev, DSA & project design  
+- 🎯 Aiming for roles in **MNC/product teams (8 LPA+)**  
+- 🌍 Based in Delhi NCR — open to onsite/hybrid/remote roles
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,firebase,tailwind,redux,git,docker,github,figma,vscode" />
-</p>
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Mobile & UI:**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Dev Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 📁 Featured Projects
 
 ### 🔹 [FileFolio](https://fileportfolio.vercel.app)
-> A full-stack portfolio + file-sharing app with JWT auth, Cloudinary storage, and admin dashboard.  
-> **Stack:** React.js, Node.js, Express, MongoDB, Cloudinary, Tailwind
-
-### 🔹 [FitMake](https://fit-make-front-face.vercel.app)
-> A health and fitness platform with user profiles, motivational quotes, and Firebase notifications.  
-> **Stack:** React.js, Firebase, Node.js, MongoDB
-
-> 💡 Check out more projects on my [portfolio](https://pc-portfolio-rho.vercel.app)
+> 💼 Full-stack personal portfolio + file-sharing platform  
+> ✅ JWT authentication, Cloudinary integration, admin panel  
+> 🛠️ React · Node · MongoDB · Tailwind · Express
 
 ---
 
-## 📊 GitHub Stats & Streaks
+### 🔹 [FitMake](https://fit-make-front-face.vercel.app)
+> 🏋️‍♂️ Fitness tracker with quotes, user roles, and dashboards  
+> ✅ Firebase backend, dynamic routing, responsive UI  
+> 🛠️ React · Firebase · Node · MongoDB
+
+➡️ Explore more on my [Portfolio](https://pc-portfolio-rho.vercel.app)
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawanchaukiyal&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawanchaukiyal&show_icons=true&theme=gruvbox" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pawanchaukiyal&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pawanchaukiyal&theme=gruvbox" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawanchaukiyal&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawanchaukiyal&layout=compact&theme=gruvbox" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🌱 GitHub Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pawanchaukiyal&theme=react-dark)](https://github.com/Pawanchaukiyal)
 
 ---
 
-## ⏰ Active Coding Hours (Optional – Wakatime)
+## ⏰ Wakatime (Optional)
 
-> Enable this with a Wakatime account and VS Code plugin  
+<!-- Enable after setup -->
 <!--
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourWakatimeUsername)
 -->
 
 ---
 
-## ✨ Hire Me
+## 🤝 Work With Me
 
-Looking for a reliable full stack developer to build your personal portfolio or web app?  
-✅ Clean code  
-✅ SEO-friendly  
-✅ Mobile responsive  
-✅ Fully deployed  
-✅ Fast delivery
+Looking for a front-end or full-stack developer for your:
+- Portfolio website
+- SaaS MVP
+- Product dashboard
+- Cross-platform mobile app?
 
-📨 Reach out:  
-**Email:** [pawanchaukiyal@gmail.com](mailto:pawanchaukiyal@gmail.com)  
-**LinkedIn:** [linkedin.com/in/pawanchaukiyal](https://linkedin.com/in/pawanchaukiyal)  
-**Portfolio:** [pc-portfolio-rho.vercel.app](https://pc-portfolio-rho.vercel.app)
+Let’s build something together!  
+📧 [pawanchaukiyal@gmail.com](mailto:pawanchaukiyal@gmail.com)  
+🔗 [linkedin.com/in/pawanchaukiyal](https://linkedin.com/in/pawanchaukiyal)
 
 ---
 
-## 📬 Let's Connect
+## 📬 Stay Connected
 
 - 🌐 [Portfolio](https://pc-portfolio-rho.vercel.app)  
-- 📧 [Email](mailto:pawanchaukiyal@gmail.com)  
+- 🐙 [GitHub](https://github.com/Pawanchaukiyal)  
 - 💼 [LinkedIn](https://linkedin.com/in/pawanchaukiyal)  
-- 🐙 [GitHub](https://github.com/Pawanchaukiyal)
+- 📧 [Email](mailto:pawanchaukiyal@gmail.com)
 
 ---
 
-_Thanks for visiting! ⭐ Feel free to star this profile or any of my repos if you find them useful._
+<p align="center">
+  ⭐ If you liked this profile, consider starring my repos or connecting with me!
+</p>
