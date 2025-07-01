@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Pawan Chaukiyal 👋</h1>
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" />
+  <img src="banner.gif" width="100%" alt="Banner" />
 </p>
+
 
 <p align="center">
   <b>Full Stack Developer | React • Node • MongoDB • Next.js</b><br/>
