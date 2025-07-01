@@ -55,6 +55,14 @@
 
 ---
 
+## 🏅 GitHub Achievements
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
+
+--- 
+
 ## 📁 Featured Projects
 
 ### 🔹 [FileFolio](https://fileportfolio.vercel.app)
