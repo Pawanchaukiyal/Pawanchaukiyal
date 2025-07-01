@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Pawan Chaukiyal 👋</h1>
-<p align="center">
-  <img src="banner.gif" width="100%" alt="Banner" />
-</p>
+
+
+
 
 
 <p align="center">
@@ -17,6 +17,13 @@
 </p>
 
 ---
+
+<div align="center" style="margin-bottom: 30px; margin-top: 30px;">
+  <img src="Banner.gif" width="100%" alt="Animated Developer Banner" />
+</div>
+
+----
+
 
 ## 👨‍💻 About Me
 
